@@ -1,1 +1,13 @@
-meu primeiro repo
+D:\curso_git\1_primeiro_repo>git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 894 bytes | 74.00 KiB/s, done.
+From https://github.com/claudio-rech/curso_git_1
+   9e1b37f..81a99f9  main       -> origin/main  
+Updating 65f55f9..81a99f9
+Fast-forward
+ readme2.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+ create mode 100644 readme2.md
